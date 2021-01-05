@@ -1,0 +1,9 @@
+C:\udemy\BookListRazor\BookListRazor\BulkyBookUtility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.deps.json
+C:\udemy\BookListRazor\BookListRazor\BulkyBookUtility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\udemy\BookListRazor\BookListRazor\BulkyBookUtility\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\udemy\BookListRazor\BookListRazor\BulkyBookUtility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\udemy\BookListRazor\BookListRazor\BulkyBookUtility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.AssemblyInfo.cs
+C:\udemy\BookListRazor\BookListRazor\BulkyBookUtility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\udemy\BookListRazor\BookListRazor\BulkyBookUtility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\udemy\BookListRazor\BookListRazor\BulkyBookUtility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\udemy\BookListRazor\BookListRazor\BulkyBookUtility\obj\Debug\netcoreapp3.1\BulkyBook.Utility.csprojAssemblyReference.cache

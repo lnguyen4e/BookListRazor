@@ -1,0 +1,14 @@
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\bin\Debug\netcoreapp3.1\BulkBook.DataAccess.deps.json
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\bin\Debug\netcoreapp3.1\BulkBook.DataAccess.dll
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\bin\Debug\netcoreapp3.1\BulkBook.DataAccess.pdb
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\obj\Debug\netcoreapp3.1\BulkBook.DataAccess.csprojAssemblyReference.cache
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\obj\Debug\netcoreapp3.1\BulkBook.DataAccess.AssemblyInfoInputs.cache
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\obj\Debug\netcoreapp3.1\BulkBook.DataAccess.AssemblyInfo.cs
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\obj\Debug\netcoreapp3.1\BulkBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\obj\Debug\netcoreapp3.1\BulkBook.DataAccess.dll
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\obj\Debug\netcoreapp3.1\BulkBook.DataAccess.pdb
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\udemy\BookListRazor\BookListRazor\BulkBookDataAccess\obj\Debug\netcoreapp3.1\BulkBook.DataAccess.csproj.CopyComplete
