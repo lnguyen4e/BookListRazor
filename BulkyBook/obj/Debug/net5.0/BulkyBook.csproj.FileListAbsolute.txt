@@ -473,3 +473,9 @@ C:\udemy\BookListRazor\BookListRazor\BulkyBook\obj\Debug\net5.0\Razor\Views\Shar
 C:\udemy\BookListRazor\BookListRazor\BulkyBook\obj\Debug\net5.0\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
 C:\udemy\BookListRazor\BookListRazor\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
 C:\udemy\BookListRazor\BookListRazor\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
+C:\udemy\BookListRazor\BookListRazor\BulkyBook\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\udemy\BookListRazor\BookListRazor\BulkyBook\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\udemy\BookListRazor\BookListRazor\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\udemy\BookListRazor\BookListRazor\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs
+C:\udemy\BookListRazor\BookListRazor\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Company\Index.cshtml.g.cs
+C:\udemy\BookListRazor\BookListRazor\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Company\Upsert.cshtml.g.cs
